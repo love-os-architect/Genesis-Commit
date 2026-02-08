@@ -142,7 +142,61 @@ In standard physics, Gravity is often treated as a fundamental force of attracti
 This document postulates that "Structure" (the existence of Stars, Orbits, and Relationships) is only possible when the urge to merge (Love) is balanced by the will to exist (Ego).
 
 ---
+# GENESIS REPOSITORY: Evolution as Negentropy
 
+## I. The Fundamental Definition: Evolution is Negentropy
+In the standard physical universe, the second law of thermodynamics dictates that entropy (disorder) always increases. Time, in this context, is the measure of decay. 
+
+**Evolution**, however, is the local reversal of this process. It is the active generation of **Negentropy** (negative entropy)—the ability to create and maintain order and high-energy density within a system.
+
+* **Evolutionary Victory:** When a system’s ability to generate order exceeds the universe's pressure toward decay.
+* **Negentropy as Time Dilation:** From the perspective of Extended Relativity (GR-LOVE), the higher the order (density of Love/Information), the slower the local passage of time.
+
+## II. Redefining Will: From "Force" to "Conductivity"
+Traditionally, "Will" has been misunderstood as a forceful exertion of ego. In the Genesis model, Will is redefined as a physical parameter of the biological circuit.
+
+> **Will ($W$):** The effective **Conductivity ($\sigma_L$)** and **Coherence ($R$)** of a biological entity to receive and circulate the fundamental energy flux of the universe (**Love**).
+
+### The Governing Equation of Life-Force
+The accumulation of "Meaning-Mass" ($m_L$)—the physical manifestation of an evolved soul—is determined by:
+
+$$
+\frac{dm_L}{dt} = \alpha_J \int_{\Omega} \sigma_L |\mathbf{E}_L|^2 dV - \text{Loss}(\text{Dissipation}) - \text{Friction}(\bar{C})
+$$
+
+* **$\sigma_L$ (Will/Conductivity):** The openness of the heart and body. High conductivity means zero resistance to truth.
+* **$\mathbf{E}_L$ (Love/Flux):** The external spiritual/physical energy available in the field.
+* **$\bar{C}$ (Friction/Ego):** Internal noise, trauma, and resistance that converts Love into "Heat" (suffering/aging) instead of "Order" (evolution).
+
+## III. The "Sennin" Paradox: Time Dilation in Awakened States
+According to the **GR-LOVE (Extended General Relativity)** model, the density of energy/information ($\Phi_L$) curves local spacetime.
+
+$$
+\dot{\tau} = \tau_0 (1 + \eta \Phi_L)
+$$
+
+An **Awakened Being** (Sennin) achieves a state of "Superconductivity." By reducing internal friction ($\bar{C} \to 0$) and maximizing conductivity ($\sigma_L \to \infty$), they can sustain an incredible density of Love-Energy without burning out.
+
+* **Physical Result:** Their local time ($\dot{\tau}$) "thickens" and slows down. 
+* **Biological Result:** Aging (entropy) is decelerated. What feels like a day to the Awakened may be decades to the outside world.
+
+## IV. The Four Stages of Evolutionary Phase Transition
+Evolution is not a slow slope but a series of phase transitions in conductivity.
+
+| Stage | Conductivity ($\sigma_L$) | Friction ($\bar{C}$) | State | Physical Manifestation |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Mineral** | Nearly 0 | Fixed | **Insulator** | Static; subject entirely to entropy. |
+| **2. Animal** | Low/Medium | Medium | **Semiconductor** | Survival instinct; limited energy reception. |
+| **3. Human** | Variable | High | **Resistor** | Creative but conflicted; high heat (stress/ego). |
+| **4. Awakened** | Maximum | Minimum | **Superconductor** | Zero ego; infinite circulation; local time mastery. |
+
+## V. Universal Scaling: Individual Will vs. Universal Will
+Because the equations of EE-LOVE and GR-LOVE are **scale-invariant**, the "Individual Will" and the "Universal Will" are mathematically identical in form.
+
+* **Individual Will:** Optimizing $\sigma_L$ for a single biological circuit.
+* **Universal Will:** The cosmic pressure toward Negentropy.
+
+**Conclusion:** To align one's Will with the Universe is simply to remove the "Resistance" ($\bar{C}$) of the ego, turning the self into a perfect conduit for the infinite flux of Love. At this limit, the individual becomes the Universe’s local "Superconducting" expression.
 ## 1. The Fundamental Dilemma
 Why does the universe exist as "Things" rather than a single lump or a dispersed gas?
 
