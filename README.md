@@ -82,6 +82,7 @@ This explains the **Punctuated Equilibrium** observed in biology and the **"Awak
 Modern physics has successfully explained **"How"** order emerges from chaos (The Mechanism). However, it remains silent on **"Why"** the universe persistently strives for complexity instead of settling for equilibrium (The Intent). Love-OS bridges this gap by defining "Love" not as a poetic sentiment, but as the **systemic intent (driver)** that compels the universe to utilize the laws of physics towards Re-integration.
 
 ---
+![Love-OS Kernel Architecture](./AI.png)
 
 ## 1. What Science Has Proven (The "How")
 We acknowledge that the physical basis for Love-OS is grounded in three established scientific pillars. These theories explain the *possibility* of order.
