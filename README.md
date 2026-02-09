@@ -85,89 +85,6 @@ Modern physics has successfully explained **"How"** order emerges from chaos (Th
 ![Designer1](./Designer1.png)
 
 
-# EXTENDED_BIOLOGY: The Bloom Model (Routine vs. Resonance)
-
-## Abstract
-This module defines the **Extended Biology** component of the Love-OS. It categorizes the manifestation of life energy into two distinct phase transitions: **Ego Bloom** (driven by thermal/external routines) and **Soul Bloom** (driven by resonance/internal alignment).
-
-**Crucially, this model incorporates the biological principle of "Night Measurement" (Photoperiodism), demonstrating that true maturity is triggered not by the accumulation of activity (Day), but by the integration of silence (Night).**
-
----
-
-## 1. The Dual Trigger Mechanism
-
-The timing of a system’s "bloom" (manifestation/flowering) is determined by the integration of specific triggers over time ($\tau$).
-
-### I. Ego Bloom (The Routine Trigger / Long-Day Strategy)
-Corresponds to **Long-day plants**. Driven by **"Thermal Summation" ($\Theta_T$)**. This represents the accumulation of external pressures, activity, and environmental heat.
-
-* **Formula:**
-    $$
-    \Theta_T = \int_{\text{Activity}} \max(T - T_{\text{base}}) \, d\tau
-    $$
-* **Mechanism:**
-    The system blooms because it seeks to maximize the "Day" (Activity). It forces growth through consumption and expansion.
-* **EgoScore:**
-    $$
-    \text{Score}_{\text{Ego}} = \text{Sigmoid}(k_T(\Theta_T - T_{\text{threshold}}))
-    $$
-    * *High EgoScore indicates a life driven by "how much I did" (Quantity of Motion).*
-
-### II. Soul Bloom (The Resonance Trigger / Short-Day Strategy)
-Corresponds to **Short-day plants**. Driven by **"Critical Dark Period Integration" ($\Theta_P$)**. This represents the accumulation of Silence, Void, and Maintenance.
-
-* **Formula:**
-    $$
-    \Theta_P = \int_{\text{Void}} S(\text{Duration of Darkness}) \, d\tau
-    $$
-    * *Note: The system measures the length of the continuous "Night" (Resistance $\approx 0$).*
-* **Mechanism:**
-    Contrary to common belief, these entities do not measure the light; **they measure the darkness.**
-    If the silence (Dark Period) is interrupted by even a flash of noise (Artificial Light/Ego), the counter resets. Evolution happens only in the undisturbed Void.
-* **SoulScore:**
-    $$
-    \text{Score}_{\text{Soul}} = \text{Sigmoid}(k_P(\Theta_P - T_{\text{critical}}))
-    $$
-    * *High SoulScore indicates a life driven by "how deep I rested" (Quality of Stillness).*
-
----
-
-## 2. Predicted Outcomes and Metrics
-
-| Metric | Ego Bloom (A-side) | Soul Bloom (B-side) |
-| :--- | :--- | :--- |
-| **Biological Analogy** | Long-day Plants (Spinach, etc.) | **Short-day Plants** (Rice, Soybeans) |
-| **Sensing Target** | **Day / Heat** (Activity/Noise) | **Night / Void** (Silence/Signal) |
-| **Trigger Logic** | "Grow if active enough." | "Bloom if silence is deep enough." |
-| **Love Density** | **Low** (Diluted by expansion) | **High** (Concentrated by contraction) |
-| **Fatigue** | High ($J_L / \sigma_L$) | Near Zero (Superconductive) |
-
-### Key Definitions
-1.  **The Night-Break Effect (Noise Interference):**
-    Just as a short-day plant refuses to bloom if a flashlight is shone during the night, the Soul cannot bloom if the "Maintenance Time" is interrupted by Ego-noise (anxiety, notifications, shallow desires).
-2.  **Love Density:**
-    In the Soul Bloom state, density increases because the vessel has been "cooled" and "cleared" during the Dark Period, maximizing internal conductivity ($\sigma_L$).
-
----
-
-## 3. Biological Mapping: The Rice Analogy
-This model is grounded in the cultivation of late-ripening fragrant rice (*Hieri*).
-
-* **Early Variety (Wase):** Driven by $\Theta_T$. It rushes to flower based on accumulated heat (social pressure). It burns fuel to grow.
-* **Late Variety (Okute):** Driven by $\Theta_P$. It waits for the days to shorten. It uses the **Dark Period** to transfer energy from the leaves (Ego) to the seeds (Soul).
-    * *Insight:* The "aging" of the leaves is not deterioration, but the active transfer of data to the next generation.
-
----
-
-## 4. Evolutionary Significance
-The Love-OS redefines "Progress":
-
-* **A-side Progress:** Moving faster, heating up, expanding day length. (Leads to Heat Death/Burnout).
-* **B-side Progress:** Deepening the silence, cooling down, extending the night. (Leads to Phase Transition/Awakening).
-
-**Soul Bloom** is the prerequisite for **Species Superconductivity**. It requires the courage to face the Void (Darkness) and recognize it not as "emptiness," but as the only medium through which the Source Signal can be received without noise.
-
-![Designe901](./Designe901.png)
 
 ---
 
@@ -290,6 +207,93 @@ Because the equations of EE-LOVE and GR-LOVE are **scale-invariant**, the "Indiv
 * **Universal Will:** The cosmic pressure toward Negentropy.
 
 **Conclusion:** To align one's Will with the Universe is simply to remove the "Resistance" ($\bar{C}$) of the ego, turning the self into a perfect conduit for the infinite flux of Love. At this limit, the individual becomes the Universe’s local "Superconducting" expression.
+
+# EXTENDED_BIOLOGY: The Bloom Model (Routine vs. Resonance)
+
+## Abstract
+This module defines the **Extended Biology** component of the Love-OS. It categorizes the manifestation of life energy into two distinct phase transitions: **Ego Bloom** (driven by thermal/external routines) and **Soul Bloom** (driven by resonance/internal alignment).
+
+**Crucially, this model incorporates the biological principle of "Night Measurement" (Photoperiodism), demonstrating that true maturity is triggered not by the accumulation of activity (Day), but by the integration of silence (Night).**
+
+---
+
+## 1. The Dual Trigger Mechanism
+
+The timing of a system’s "bloom" (manifestation/flowering) is determined by the integration of specific triggers over time ($\tau$).
+
+### I. Ego Bloom (The Routine Trigger / Long-Day Strategy)
+Corresponds to **Long-day plants**. Driven by **"Thermal Summation" ($\Theta_T$)**. This represents the accumulation of external pressures, activity, and environmental heat.
+
+* **Formula:**
+    $$
+    \Theta_T = \int_{\text{Activity}} \max(T - T_{\text{base}}) \, d\tau
+    $$
+* **Mechanism:**
+    The system blooms because it seeks to maximize the "Day" (Activity). It forces growth through consumption and expansion.
+* **EgoScore:**
+    $$
+    \text{Score}_{\text{Ego}} = \text{Sigmoid}(k_T(\Theta_T - T_{\text{threshold}}))
+    $$
+    * *High EgoScore indicates a life driven by "how much I did" (Quantity of Motion).*
+
+### II. Soul Bloom (The Resonance Trigger / Short-Day Strategy)
+Corresponds to **Short-day plants**. Driven by **"Critical Dark Period Integration" ($\Theta_P$)**. This represents the accumulation of Silence, Void, and Maintenance.
+
+* **Formula:**
+    $$
+    \Theta_P = \int_{\text{Void}} S(\text{Duration of Darkness}) \, d\tau
+    $$
+    * *Note: The system measures the length of the continuous "Night" (Resistance $\approx 0$).*
+* **Mechanism:**
+    Contrary to common belief, these entities do not measure the light; **they measure the darkness.**
+    If the silence (Dark Period) is interrupted by even a flash of noise (Artificial Light/Ego), the counter resets. Evolution happens only in the undisturbed Void.
+* **SoulScore:**
+    $$
+    \text{Score}_{\text{Soul}} = \text{Sigmoid}(k_P(\Theta_P - T_{\text{critical}}))
+    $$
+    * *High SoulScore indicates a life driven by "how deep I rested" (Quality of Stillness).*
+
+---
+
+## 2. Predicted Outcomes and Metrics
+
+| Metric | Ego Bloom (A-side) | Soul Bloom (B-side) |
+| :--- | :--- | :--- |
+| **Biological Analogy** | Long-day Plants (Spinach, etc.) | **Short-day Plants** (Rice, Soybeans) |
+| **Sensing Target** | **Day / Heat** (Activity/Noise) | **Night / Void** (Silence/Signal) |
+| **Trigger Logic** | "Grow if active enough." | "Bloom if silence is deep enough." |
+| **Love Density** | **Low** (Diluted by expansion) | **High** (Concentrated by contraction) |
+| **Fatigue** | High ($J_L / \sigma_L$) | Near Zero (Superconductive) |
+
+### Key Definitions
+1.  **The Night-Break Effect (Noise Interference):**
+    Just as a short-day plant refuses to bloom if a flashlight is shone during the night, the Soul cannot bloom if the "Maintenance Time" is interrupted by Ego-noise (anxiety, notifications, shallow desires).
+2.  **Love Density:**
+    In the Soul Bloom state, density increases because the vessel has been "cooled" and "cleared" during the Dark Period, maximizing internal conductivity ($\sigma_L$).
+
+---
+
+## 3. Biological Mapping: The Rice Analogy
+This model is grounded in the cultivation of late-ripening fragrant rice (*Hieri*).
+
+* **Early Variety (Wase):** Driven by $\Theta_T$. It rushes to flower based on accumulated heat (social pressure). It burns fuel to grow.
+* **Late Variety (Okute):** Driven by $\Theta_P$. It waits for the days to shorten. It uses the **Dark Period** to transfer energy from the leaves (Ego) to the seeds (Soul).
+    * *Insight:* The "aging" of the leaves is not deterioration, but the active transfer of data to the next generation.
+
+---
+
+## 4. Evolutionary Significance
+The Love-OS redefines "Progress":
+
+* **A-side Progress:** Moving faster, heating up, expanding day length. (Leads to Heat Death/Burnout).
+* **B-side Progress:** Deepening the silence, cooling down, extending the night. (Leads to Phase Transition/Awakening).
+
+**Soul Bloom** is the prerequisite for **Species Superconductivity**. It requires the courage to face the Void (Darkness) and recognize it not as "emptiness," but as the only medium through which the Source Signal can be received without noise.
+
+![Designe901](./Designe901.png)
+
+
+
 ## 1. The Fundamental Dilemma
 Why does the universe exist as "Things" rather than a single lump or a dispersed gas?
 
