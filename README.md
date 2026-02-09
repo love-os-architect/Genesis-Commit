@@ -167,7 +167,7 @@ The Love-OS redefines "Progress":
 
 **Soul Bloom** is the prerequisite for **Species Superconductivity**. It requires the courage to face the Void (Darkness) and recognize it not as "emptiness," but as the only medium through which the Source Signal can be received without noise.
 
-![Designer1](./Designer1.png)
+![Designe901](./Designe901.png)
 
 ---
 
